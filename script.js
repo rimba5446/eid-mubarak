@@ -6,7 +6,7 @@ const quoteText     = document.getElementById('quote');
 const greetingText     = document.getElementById('greeting');
 const quote = quoteText.innerText ;
 const greeting = greetingText.innerText;
-var site = "Selamat Hari Idul Fitri 1445H https://idulfitri1445h.vercel.app";
+var site = "Selamat Hari Idul Fitri 1445H https://eid-mubarak-murex.vercel.app";
 
 var quoteArray = [
     "Dari dulu terus mencari, meski hati masih sendiri, jangan pernah bersusah hati, karena hari ini Idul Fitri. Semoga kita yang sendiri bisa saling berbagi, minal aidin walfaizin mohon maaf lahir dan batin. ~ [Rimba & Keluarga]",
